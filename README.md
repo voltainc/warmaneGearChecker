@@ -71,7 +71,3 @@ Example of usage:
 * !gs Koch Lordaeron
 * !achievements Metalforce
 * !achi Metalforce
-
-![image](https://github.com/kikchan/Snuske/assets/26814080/60c1ef60-fa1a-443f-90c2-9db94f4bb28a)
-
-Feel free to join the [official Discord server](https://discord.gg/ZSDpeftAB7) of the bot here and ask/suggest me anything!
